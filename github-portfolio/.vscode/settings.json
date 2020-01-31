@@ -1,0 +1,18 @@
+{
+  "css.validate": true,
+  //"editor.formatOnSave": true,
+  "editor.codeActionsOnSaveTimeout": 2000,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.enable": true,
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "stylelint.enable": true,
+  "typescript.tsserver.trace": "verbose",
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false
+  },
+  "prettier.singleQuote": true,
+  "prettier.semi": false
+}
